@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import portfolio from "../../data/portfolio";
+import portfolio from "../../Data/portfolio";
 
 function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);

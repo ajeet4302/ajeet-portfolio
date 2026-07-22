@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa";
 
 import profile from "../../assets/images/Ajeet.jpeg";
-import portfolio from "../../data/portfolio";
+import portfolio from "../../Data/portfolio";
 import Button from "../ui/Button";
 
 function Hero() {

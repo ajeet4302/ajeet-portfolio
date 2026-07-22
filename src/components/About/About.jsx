@@ -10,7 +10,7 @@ import {
   SiHibernate,
 } from "react-icons/si";
 
-import portfolio from "../../data/portfolio";
+import portfolio from "../../Data/portfolio";
 
 function About() {
   return (
