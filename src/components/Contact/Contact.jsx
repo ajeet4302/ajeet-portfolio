@@ -9,7 +9,7 @@ import {
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
 
-import portfolio from "../../data/portfolio";
+import portfolio from "../../Data/portfolio";
 
 function Contact() {
 
