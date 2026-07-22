@@ -1,16 +1,166 @@
-# React + Vite
+# 🚀 Ajeet Malviya - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website showcasing my skills, projects, experience, education, and contact information as a Java Full Stack Developer.
 
-Currently, two official plugins are available:
+🌐 Live Demo:
+https://ajeet-portfolio-six.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Hi, I'm **Ajeet Malviya**, a Java Full Stack Developer passionate about building scalable and user-friendly web applications.
 
-## Expanding the ESLint configuration
+I specialize in:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Java
+* Spring Boot
+* Hibernate
+* React.js
+* JavaScript
+* SQL
+* REST APIs
+* Full Stack Web Development
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* React Icons
+* Vite
+
+### Tools & Deployment
+
+* Git & GitHub
+* Vercel
+* VS Code
+* npm
+
+### Email Integration
+
+* EmailJS (Contact Form)
+
+---
+
+## ✨ Features
+
+✅ Responsive design for desktop, tablet, and mobile
+✅ Modern dark-themed UI
+✅ About section
+✅ Skills showcase
+✅ Work experience section
+✅ Project portfolio
+✅ Education & certifications
+✅ Downloadable resume
+✅ Contact form with EmailJS integration
+✅ Social media links
+✅ SEO optimized metadata
+
+---
+
+## 📂 Project Structure
+
+```
+src
+│
+├── assets
+│   ├── images
+│   └── projects
+│
+├── components
+│   ├── About
+│   ├── Contact
+│   ├── Education
+│   ├── Experience
+│   ├── Footer
+│   ├── Hero
+│   ├── Navbar
+│   ├── Projects
+│   └── Skills
+│
+├── Data
+│   └── portfolio.js
+│
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## 🚀 Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ajeet4302/ajeet-portfolio.git
+```
+
+Navigate into the project:
+
+```bash
+cd ajeet-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+Open:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 📦 Build For Production
+
+Create production build:
+
+```bash
+npm run build
+```
+
+Preview production build:
+
+```bash
+npm run preview
+```
+
+---
+
+## 📬 Contact
+
+**Ajeet Malviya**
+
+📧 Email: [ajeetmalviya4302@gmail.com](mailto:ajeetmalviya4302@gmail.com)
+
+🔗 GitHub:
+https://github.com/ajeet4302
+
+🔗 LinkedIn:
+www.linkedin.com/in/ajeet-malviya
+
+🌐 Portfolio:
+https://ajeet-portfolio-six.vercel.app
+
+---
+
+## 📄 License
+
+This project is open source and available for personal and learning purposes.
